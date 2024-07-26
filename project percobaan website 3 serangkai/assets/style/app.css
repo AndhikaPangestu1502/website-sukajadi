@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 80px;
+}
+
+.busuk {
+  width: 200px;
+}
+
+.profile h2 {
+    color: bisque;
+}
+.profile h5 {
+    color: black;
+}
+
+.Biodata {
+    background: linear-gradient(#ffffff 0%, #ffffffd8 40%, #7420d3 100%);
+    padding-bottom: 100px;
+}
+
+.Sosmed {
+  color: black;
+  background-color: white;
+  padding-bottom: 50px;
+}
+.Sosmed a {
+  color: black;
+  font-size: 30px;
+}
+
+.Biodata {
+  padding-top: 150px;
+  padding-bottom: 500px;
+}
